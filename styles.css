@@ -1,0 +1,67 @@
+body
+{
+    
+/*      */
+
+    background-image: url(pexels-photo-220182.jpeg);
+   
+color: floralwhite;
+    font-weight: 700;
+}
+
+nav
+{
+    
+}
+.navlist
+{
+    
+}
+.navlogo
+{
+font-family: 'Dancing Script', cursive;
+font-weight: 600;
+}
+.container
+{
+    border: 5px solid white;
+    border-radius: 50px;
+    background-color: rgba(194,104,121,0.68);
+/*   background-color: rgba(22, 104, 121, 0.68);*/
+    /* blanchedalmond;*/
+      box-shadow: 6px 4px 4px 4px gray;
+
+    padding: 30px;
+ }
+.ll
+{
+    
+}
+label
+{
+   color: darkslategrey;
+}
+.btn
+{
+       background-color: black; 
+    border-radius: 12px;
+    font-weight: 800;
+    color: aliceblue;
+}
+
+.btn:hover
+{
+     background-color: rgba(240,212,217,0.90)
+
+}
+.form-control
+{
+    background-color: rgba(240,212,217,0.90) !important;     
+}
+
+/*
+.navbar
+{
+    background-color: rgba(22, 104, 121, 0.68) !important;
+}
+*/
